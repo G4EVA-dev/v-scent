@@ -135,7 +135,7 @@ export default function ContactPage() {
                 <div>
                   <h4 className="font-medium">Do you offer samples?</h4>
                   <p className="text-sm text-muted-foreground">
-                    Yes! We offer 2ml samples of all our fragrances for $5 each.
+                    Yes! We offer 2ml samples of all our fragrances for 15000 XAF each.
                   </p>
                 </div>
               </div>
